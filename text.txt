@@ -1,0 +1,7 @@
+git add .
+git status
+git commit -m ""
+git push origin rama
+git pull origin rama
+git branch
+git branch Nrama
