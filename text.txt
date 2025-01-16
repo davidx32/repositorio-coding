@@ -5,3 +5,4 @@ git push origin rama llevar a rama
 git pull origin rama traer de rama 
 git branch ver ramas
 git branch Nrama crear rama
+git checkout rama : moverse entre ramas
