@@ -1,7 +1,7 @@
-git add .
-git status
-git commit -m ""
-git push origin rama
-git pull origin rama
-git branch
-git branch Nrama
+git add . agregar cambios 
+git status revisar estado 
+git commit -m "" comentar cmabios 
+git push origin rama llevar a rama 
+git pull origin rama traer de rama 
+git branch ver ramas
+git branch Nrama crear rama
